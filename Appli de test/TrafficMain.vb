@@ -23,7 +23,7 @@
 
 
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-        Dim swr As New System.IO.StreamReader("E:\Svn Ninsight\Third Party\PIKO SOCIAL HUB\Piko_URls.txt")
+        Dim swr As New System.IO.StreamReader("Piko_URls.txt")
 
 
         Do Until swr.Peek = -1

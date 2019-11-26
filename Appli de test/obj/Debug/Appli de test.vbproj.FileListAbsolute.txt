@@ -19,3 +19,15 @@ E:\Svn Ninsight\Third Party\Appli de test\Appli de test\obj\Debug\WindowsApplica
 E:\Svn Ninsight\Third Party\Appli de test\Appli de test\obj\Debug\Appli de test.vbproj.GenerateResource.Cache
 E:\Svn Ninsight\Third Party\Appli de test\Appli de test\obj\Debug\WindowsApplication1.TrafficMain.resources
 E:\Svn Ninsight\Third Party\Appli de test\Appli de test\obj\Debug\WindowsApplication1.TrafficPlayList.resources
+C:\Users\Barthélémy\OneDrive\Svn Atwy\Appli de test\Appli de test\bin\Debug\Appli de test.exe.config
+C:\Users\Barthélémy\OneDrive\Svn Atwy\Appli de test\Appli de test\bin\Debug\Appli de test.exe
+C:\Users\Barthélémy\OneDrive\Svn Atwy\Appli de test\Appli de test\bin\Debug\Appli de test.pdb
+C:\Users\Barthélémy\OneDrive\Svn Atwy\Appli de test\Appli de test\bin\Debug\Appli de test.xml
+C:\Users\Barthélémy\OneDrive\Svn Atwy\Appli de test\Appli de test\obj\Debug\Appli de test.vbprojAssemblyReference.cache
+C:\Users\Barthélémy\OneDrive\Svn Atwy\Appli de test\Appli de test\obj\Debug\WindowsApplication1.TrafficMain.resources
+C:\Users\Barthélémy\OneDrive\Svn Atwy\Appli de test\Appli de test\obj\Debug\WindowsApplication1.TrafficPlayList.resources
+C:\Users\Barthélémy\OneDrive\Svn Atwy\Appli de test\Appli de test\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Barthélémy\OneDrive\Svn Atwy\Appli de test\Appli de test\obj\Debug\Appli de test.vbproj.GenerateResource.cache
+C:\Users\Barthélémy\OneDrive\Svn Atwy\Appli de test\Appli de test\obj\Debug\Appli de test.exe
+C:\Users\Barthélémy\OneDrive\Svn Atwy\Appli de test\Appli de test\obj\Debug\Appli de test.xml
+C:\Users\Barthélémy\OneDrive\Svn Atwy\Appli de test\Appli de test\obj\Debug\Appli de test.pdb
